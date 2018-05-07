@@ -12,4 +12,4 @@ An excellent template for ICO Token Sale, Landing, which will collect buyers of 
 > 
 > Category: Landing Page
 
-![screenshot of sample](https://defina.ru/tokensale.mymining.png)
+![screenshot of sample](https://defina.ru/tokensale.png)
